@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/sites/edsfrontend/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fedsfrontend%2FShared%20Documents%2Fedsfrontend&viewid=bcf40056%2D0284%2D464b%2D996a%2Db3063e5ecc79
+  /: https://adobe.sharepoint.com/:f:/r/sites/edsfrontend/Shared%20Documents/edsfrontend
 
 folders:
   /products/: /products/default
